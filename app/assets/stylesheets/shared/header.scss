@@ -1,0 +1,41 @@
+header {
+	height: 50px;
+	line-height: 40px;
+	border-bottom: 1px solid #cecece;
+}
+
+.ceiling {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+#ceiling-title {
+	width: 50%;
+	float: left;
+	vertical-align: middle;
+	font-size: 16px;
+	p { margin: 0;
+	padding: 0; }
+}
+
+#menu {
+	width: 50%;
+	float: right;
+	text-align: right;
+	vertical-align: middle;
+	font-size: 16px;
+	ul {
+		padding: 0 30px;
+		margin: 0;
+		list-style:none;
+		li {
+			display: inline;
+			a {
+				padding: 2px 10px;
+				display: inline-block;
+				color: #333;
+				text-decoration: none;
+				&:hover { color: #1BAAAD;} }
+		}
+	}
+}
