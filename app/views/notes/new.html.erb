@@ -1,15 +1,10 @@
 <h1>New note</h1>
+<div class="form-container">
+	<%= form_for :note, url: notes_path do |f| %>
+		<h2><%= f.text_field :title %></h2>
 
-<%= form_for :note, url: notes_path do |f| %>
-	<p>
-		<%= f.label :title %>
-		<%= f.text_field :title %>
-	</p>
+		<p><%= f.text_area :text %></p>
 
-	<p>
-		<%= f.label :text %>
-		<%= f.text_area :text %>
-	</p>
-
-	<%= f.submit %>
-<% end %>
+		<%= f.submit %>
+	<% end %>
+</div>
