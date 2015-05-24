@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+config/database.yml
 
 ## Specific to RubyMotion:
 #.dat*
@@ -16,16 +17,16 @@
 #build/
 #
 ### Documentation cache and generated files:
-#/.yardoc/
-#/_yardoc/
-#/doc/
-#/rdoc/
-#
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
 ### Environment normalisation:
-#/.bundle/
-#/vendor/bundle
-#/lib/bundler/man/
-#
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
 ## for a library or gem, you might want to ignore these files since the code is
 ## intended to run in multiple environments; otherwise, check them in:
 ## Gemfile.lock
@@ -37,33 +38,33 @@
 #
 #
 #### Rails ###
-#*.rbc
-#capybara-*.html
-#.rspec
-#/log
-#/tmp
-#/db/*.sqlite3
-#/db/*.sqlite3-journal
-#/public/system
-#/coverage/
-#/spec/tmp
-#**.orig
-#rerun.txt
-#pickle-email-*.html
-#
+*.rbc
+capybara-*.html
+.rspec
+/log
+/tmp
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system
+/coverage/
+/spec/tmp
+**.orig
+rerun.txt
+pickle-email-*.html
+
 ## TODO Comment out these rules if you are OK with secrets being uploaded to the repo
-#config/initializers/secret_token.rb
-#config/secrets.yml
-#
+config/initializers/secret_token.rb
+config/secrets.yml
+
 ### Environment normalisation:
-#/.bundle
-#/vendor/bundle
-#
+/.bundle
+/vendor/bundle
+
 ## these should all be checked in to normalise the environment:
 ## Gemfile.lock, .ruby-version, .ruby-gemset
 #
 ## unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-#.rvmrc
+.rvmrc
 #
 ## if using bower-rails ignore default bower_components path bower.json files
 #/vendor/assets/bower_components
@@ -75,27 +76,27 @@
 #
 #
 #### Sass ###
-#.sass-cache
-#*.css.map
-#
+.sass-cache
+*.css.map
+
 #
 #### Vim ###
-#[._]*.s[a-w][a-z]
-#[._]s[a-w][a-z]
-#*.un~
-#Session.vim
-#.netrwhist
-#*~
-#
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
 #
 #### SublimeText ###
-## cache files for sublime text
-#*.tmlanguage.cache
-#*.tmPreferences.cache
-#*.stTheme.cache
-#
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
 ## workspace files are user-specific
-#*.sublime-workspace
+*.sublime-workspace
 #
 ## project files should be checked into the repository, unless a significant
 ## proportion of contributors will probably not be using SublimeText
