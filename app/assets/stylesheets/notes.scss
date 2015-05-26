@@ -1,3 +1,12 @@
-// Place all the styles related to the notes controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.note-box {
+  margin: 3% 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.note-title {
+ h2 { text-decoration: none !important;
+  color: #018089;
+  &a { text-decoration: underline; } }
+}
+
