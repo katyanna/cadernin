@@ -9,9 +9,11 @@ Write it down.
 Are you feeling blue and introspective?
 Write it down.
 
-When you write it down, the thing becomes tangible and way more easy to deal with.
+When you write it down, the thing becomes tangible and way easier to deal with.
 
 For that, use writedown.
+
+(yes, that's me putting my business degree to action, thank you very much)
 
 ## Contributing
 
