@@ -1,14 +1,20 @@
 # cadernin
 
-_anotei num cadernin
-a teu nome e um coração
-na hora da saudade
-eu fiz esse batidão
-nesse mesmo cadernin
-não tem só teu nome não
-mas só tu vira hit, baby_
+_anotei num cadernin_
 
-[cadernin, Luísa e os Alquimistas](https://www.youtube.com/watch?v=KzkZOEd7vWg)
+_a teu nome e um coração_
+
+_na hora da saudade_
+
+_eu fiz esse batidão_
+
+_nesse mesmo cadernin_
+
+_não tem só teu nome não_
+
+_mas só tu vira hit, baby_
+
+* [cadernin, Luísa e os Alquimistas](https://www.youtube.com/watch?v=KzkZOEd7vWg)
 
 ## Contributing
 
