@@ -1,19 +1,14 @@
-# writedown
+# cadernin
 
-Had an awesome idea?
-Write it down.
+_anotei num cadernin
+a teu nome e um coração
+na hora da saudade
+eu fiz esse batidão
+nesse mesmo cadernin
+não tem só teu nome não
+mas só tu vira hit, baby_
 
-Have a ton of stuff to do?
-Write it down.
-
-Are you feeling blue and introspective?
-Write it down.
-
-When you write it down, the thing becomes tangible and way easier to deal with.
-
-For that, use **writedown**.
-
-_(yes, that's me putting my business degree to action, thank you very much)_
+[cadernin, Luísa e os Alquimistas](https://www.youtube.com/watch?v=KzkZOEd7vWg)
 
 ## Contributing
 
