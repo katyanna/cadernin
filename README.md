@@ -2,7 +2,7 @@
 
 _anotei num cadernin_
 
-_a teu nome e um coração_
+_o teu nome e um coração_
 
 _na hora da saudade_
 
