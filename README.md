@@ -1,24 +1,17 @@
-# writedown
+# cadernin
 
-Had an awesome idea?
-Write it down.
+_anotei num cadernin_
 
-Have a ton of stuff to do?
-Write it down.
+_o teu nome e um coração_
 
-Are you feeling blue and introspective?
-Write it down.
+_na hora da saudade_
 
-When you write it down, the thing becomes tangible and way easier to deal with.
+_eu fiz esse batidão_
 
-For that, use **writedown**.
+_nesse mesmo cadernin_
 
-_(yes, that's me putting my business degree to action, thank you very much)_
+_não tem só teu nome não_
 
-## Contributing
+_mas só tu vira hit, baby_
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+[cadernin, Luísa e os Alquimistas](https://www.youtube.com/watch?v=KzkZOEd7vWg)

@@ -1,9 +1,0 @@
-<h1 class="page-title">Your Notes</h1>
-<div class="notes-list">
-  <% @notes.each do |note| %>
-    <div class="note-box">
-      <div class="note-title"><h2><%= link_to note.title, note_path(note) %></h2></div>
-      <p><%= truncate(note.text, :length => 450, :separator => ' ') %></p>
-    </div>
-  <% end %>
-</div>
